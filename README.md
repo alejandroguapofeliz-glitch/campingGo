@@ -1,1 +1,1 @@
-# campingGo
+# CampingGo
